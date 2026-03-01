@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/UnknownObjectV2/Camellia-Music-SFX-Pack/refs/heads/master/assets/og.png)
-Camellia DMCA-Free Music: https://youtube.com/playlist?list=PLaN19gIKi5ZrjNT-KAuFeB82fmykcF8bK&si=p1ZkBP9cBWXTqqjW
+![](https://raw.githubusercontent.com/UnknownObjectV2/Mindustek/refs/heads/master/sprites-override/ui/logo.png)
 
 SFX Coming Soon!
